@@ -1,0 +1,249 @@
+# 📘 Word: **implicit**
+
+## 1. Basic Meaning
+
+**Implicit** means something is **understood without being said directly**.
+(Roman Urdu: Baat seedha na boli jaye lekin samajh aa jaye)
+
+---
+
+## 2. Roman Urdu Meaning
+
+* **Implicit = Chhupa hua matlab / bina seedha kahe samajh aane wali baat**
+* Example:
+
+  * His implicit answer was “no.”
+    (Us ki baat se samajh aa gaya ke jawab “na” tha)
+
+---
+
+## 3. Why This Word Matters
+
+This word is very common in:
+
+* English speaking
+* Academic writing
+* Programming
+* Algorithms
+* Research papers
+
+Computer Science students often see:
+
+* **implicit conversion**
+* **implicit function**
+* **implicit behavior**
+
+(Roman Urdu: CS mein kai cheezein automatically hoti hain bina clearly likhe)
+
+---
+
+## 4. Daily-Life Usage
+
+People use **implicit** when:
+
+* someone hints at something
+* rules are understood automatically
+* meaning is hidden but clear
+
+Example:
+
+* My teacher gave implicit permission.
+  (Teacher ne seedha nahi kaha lekin ijazat samajh aa gayi)
+
+---
+
+## 5. Academic Usage
+
+In studies, **implicit** is used for:
+
+* hidden meaning
+* indirect ideas
+* unstated assumptions
+
+Example:
+
+* The writer made an implicit argument.
+  (Writer ne baat directly nahi likhi lekin matlab clear tha)
+
+---
+
+## 6. Computer Science Usage
+
+In CS, **implicit** means:
+
+* something happens automatically
+* programmer does not write it directly
+
+Example:
+
+* The language performs implicit type conversion.
+  (Language khud automatically type change kar leti hai)
+
+---
+
+## 7. Beginner Explanation
+
+Think like this:
+
+👉 **Explicit** = directly written
+👉 **Implicit** = understood automatically
+
+Example:
+
+```python
+x = 5 + 2.0
+```
+
+Here Python changes `5` into `5.0` automatically.
+This is called **implicit conversion**.
+(Python khud number ka type badal deti hai)
+
+---
+
+## 8. Synonyms vs Similar Words
+
+| Word         | Meaning                |
+| ------------ | ---------------------- |
+| **Implicit** | understood indirectly  |
+| **Hidden**   | not visible            |
+| **Indirect** | not straightforward    |
+| **Unspoken** | not said aloud         |
+| **Assumed**  | accepted without proof |
+
+---
+
+## 9. Antonyms
+
+| Word         | Meaning            |
+| ------------ | ------------------ |
+| **Explicit** | clearly stated     |
+| **Direct**   | straightforward    |
+| **Clear**    | easy to understand |
+| **Open**     | not hidden         |
+
+---
+
+## 10. Word Family
+
+| Word             | Type      | Meaning        |
+| ---------------- | --------- | -------------- |
+| **Implicit**     | adjective | indirect       |
+| **Implicitly**   | adverb    | indirectly     |
+| **Implicitness** | noun      | hidden quality |
+
+---
+
+## 11. Common Phrases
+
+* implicit meaning
+* implicit rule
+* implicit permission
+* implicit conversion
+* implicit assumption
+* implicit behavior
+
+---
+
+## 12. Memory Technique
+
+Remember:
+
+👉 **IMPLICIT = “inside meaning”**
+
+Something is hidden **inside** the sentence or action.
+(Baat ka asal matlab andar chhupa hota hai)
+
+Also remember:
+
+* **EXplicit** → EX = out/open
+* **IMplicit** → IM = inside
+
+---
+
+## 13. Common Mistakes Students Make
+
+### ❌ Mistake 1:
+
+Using **implicit** for something fully clear.
+
+Wrong:
+
+* The instructions were implicit and easy to read.
+
+Correct:
+
+* The instructions were explicit and easy to read.
+
+---
+
+### ❌ Mistake 2:
+
+Confusing **implicit** with **important**
+
+Implicit does NOT mean important.
+It means indirectly understood.
+(Implicit ka matlab important nahi hota)
+
+---
+
+# ✍️ 3 Easy Daily-Life Sentences
+
+1. Her implicit smile showed she was happy.
+   (Us ki muskurahat se khushi samajh aa rahi thi)
+
+2. My father gave implicit approval for the trip.
+   (Abu ne seedha nahi kaha lekin ijazat mil gayi)
+
+3. There was an implicit warning in his voice.
+   (Us ki awaaz se warning ka ehsaas ho raha tha)
+
+---
+
+# 🎓 3 Academic Sentences
+
+1. The article contains an implicit message.
+   (Article mein ek chhupa hua paigham hai)
+
+2. The teacher made an implicit assumption.
+   (Teacher ne ek baat bina kahe maan li)
+
+3. The poem has implicit meaning.
+   (Poem ka matlab directly nahi bataya gaya)
+
+---
+
+# 💻 5 Computer Science Sentences (ACTIVE VOICE)
+
+1. Python performs implicit type conversion automatically.
+   (Python khud type conversion kar leti hai)
+
+2. The compiler detects implicit changes in data types.
+   (Compiler data type ki automatic tabdeeli pakar leta hai)
+
+3. The program uses implicit rules during execution.
+   (Program chalne ke dauran hidden rules use karta hai)
+
+4. Java allows implicit casting in some cases.
+   (Java kuch situations mein automatic casting allow karta hai)
+
+5. The algorithm makes an implicit assumption about the input.
+   (Algorithm input ke bare mein ek baat automatically maan leta hai)
+
+---
+
+# 💻 5 Computer Science Sentences (PASSIVE VOICE)
+
+1. An implicit conversion is performed by the compiler.
+   (Compiler ki taraf se automatic conversion ki jati hai)
+
+2. Hidden values are implicitly generated by the system.
+   (System khud hidden values bana deta hai)
+
+3. The data type is implicitly changed during execution.
+   (Execution ke dauran data type automatically badal diya jata hai)
+
+4. Implicit rules are followed by the software.
+   (Software automatic rules follow karta hai)
+
+5. An implicit condition is checked by the program.
+   (Program ki taraf se hidden condition check ki jati hai)
